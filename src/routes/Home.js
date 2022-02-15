@@ -32,7 +32,7 @@ function Home() {
                 genres={movie.genres}/>
             )
             )
-            }</div>
+            }</div>}
         </div>
     );
 }
